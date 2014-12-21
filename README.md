@@ -5,14 +5,20 @@ date: "Saturday, December 20, 2014"
 output: html_document
 ---
 
-Usage: 
+### Usage: 
 
 ```
 > source("run_analysis.R")
 > run()
 ```
 
-Output:
+### Input:
+
+"Human Activity Recognition Using Smartphones Data Set" from www.smartlab.ws.
+
+https://www.dropbox.com/s/u7jq5twvohyhac4/UCI%20HAR%20Dataset.zip
+
+### Output:
 
 ./tinydata.txt in the following format:
 
@@ -23,7 +29,7 @@ Output:
 "LAYING",13,0.275895876198777,...
 ```
 
-Assumptions:
+### Assumptions:
 
 Your working directory is "UCI HAR Dataset" and "run_analysis.R" is in your
 working directory.

@@ -47,7 +47,7 @@ reduced to show the mean value for each variable by activity and subject.
 ### Output
 Values represent the mean for each variable grouped by activity and subject.
 
-- label             character
+- activity             character
         Each subject performed six types of activities, this variable refers to the activity names
             WALKING_DOWNSTAIRS 
             WALKING_UPSTAIRS 
